@@ -7,7 +7,7 @@ The Shodan search script is a command-line tool that allows you to search for in
 To install the Shodan search script on your Linux machine, follow these steps:
 
    ```
-   git clone https://github.com/shubhampatil09/shodan-search/
+   git clone https://github.com/shubhampatil09/shodan-search.git
    ```
    ```
    cd shodan-search
